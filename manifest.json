@@ -1,0 +1,11 @@
+{
+  "name": "S’Aito Gold 987 Trading Coach",
+  "short_name": "S’Aito 987",
+  "description": "Application de formation au trading pour débutants.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "lang": "fr-FR",
+  "icons": []
+}
